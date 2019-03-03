@@ -1,0 +1,10 @@
+C:\Users\docal\source\repos\d 55 Menu Strip Ornegii\bin\Debug\d 55 Menu Strip Ornegii.exe.config
+C:\Users\docal\source\repos\d 55 Menu Strip Ornegii\bin\Debug\d 55 Menu Strip Ornegii.exe
+C:\Users\docal\source\repos\d 55 Menu Strip Ornegii\bin\Debug\d 55 Menu Strip Ornegii.pdb
+C:\Users\docal\source\repos\d 55 Menu Strip Ornegii\obj\Debug\d 55 Menu Strip Ornegii.csprojAssemblyReference.cache
+C:\Users\docal\source\repos\d 55 Menu Strip Ornegii\obj\Debug\d_55_Menu_Strip_Ornegii.Form1.resources
+C:\Users\docal\source\repos\d 55 Menu Strip Ornegii\obj\Debug\d_55_Menu_Strip_Ornegii.Properties.Resources.resources
+C:\Users\docal\source\repos\d 55 Menu Strip Ornegii\obj\Debug\d 55 Menu Strip Ornegii.csproj.GenerateResource.cache
+C:\Users\docal\source\repos\d 55 Menu Strip Ornegii\obj\Debug\d 55 Menu Strip Ornegii.csproj.CoreCompileInputs.cache
+C:\Users\docal\source\repos\d 55 Menu Strip Ornegii\obj\Debug\d 55 Menu Strip Ornegii.exe
+C:\Users\docal\source\repos\d 55 Menu Strip Ornegii\obj\Debug\d 55 Menu Strip Ornegii.pdb
